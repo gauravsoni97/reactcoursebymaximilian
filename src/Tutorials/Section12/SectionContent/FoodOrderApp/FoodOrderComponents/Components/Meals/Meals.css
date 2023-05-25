@@ -1,0 +1,21 @@
+.HeroSection {
+  background: url("../../../../../../../Assets/Images/foodbg.jpg");
+  width: 100vw;
+  min-height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroCta {
+  z-index: 3;
+  background: rgb(255, 255, 255);
+  font-size: 1rem;
+  text-align: center;
+  max-width: 50vw;
+
+  padding: 3rem;
+}

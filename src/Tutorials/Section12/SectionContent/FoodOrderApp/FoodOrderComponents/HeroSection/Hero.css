@@ -1,9 +1,0 @@
-.HeroSection{
-    background:url("../../../../../../Assets/Images/foodbg.jpg");
-    width: 100vw;
-    min-height: 80vh;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    filter: blur(10px);
-}

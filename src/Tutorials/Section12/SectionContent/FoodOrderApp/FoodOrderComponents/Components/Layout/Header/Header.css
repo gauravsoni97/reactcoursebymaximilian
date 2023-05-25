@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 2rem auto;
+}
+
+.cartBtn{
+    background-color: black;
+    color: white;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

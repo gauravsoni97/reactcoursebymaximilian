@@ -1,0 +1,32 @@
+.MealsListItem {
+  margin: 1rem;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem;
+  border: 1px solid gray;
+}
+
+.priceNamePrice {
+  width: 80%;
+}
+.priceNamePrice h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+.priceNamePrice p {
+    width: 80%;
+    margin-bottom: 1rem;
+}
+.priceNamePrice span {
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.priceIncDec {
+  width: 20%;
+}
